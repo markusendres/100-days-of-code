@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Clean Code - Log
 
 ### Day 1: July 24, Friday
 
