@@ -14,6 +14,6 @@
 
 **Ideas for next sessions**
 
-**DotNet Unit- and Integrationtesting - Live Unit Testing vs. Visual Studio
-**Answer .NET related StackOverflow Articles
-**MarkDown Training
+* DotNet Unit- and Integrationtesting - Live Unit Testing vs. Visual Studio
+* Answer .NET related StackOverflow Articles
+* MarkDown Training
