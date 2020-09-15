@@ -1,10 +1,13 @@
 # 100 Days Of Clean Code - Log
 
-### Day 1: July 24, Friday
+### Day 1: September, 09
 
-**Today's Progress**: I watched the Pluralsight course Building a Pragmatic Unit Test Suite by Vladimir Khorikov
+**Today's Progress**: I started with F# today
 
-**Thoughts**: 
+**Thoughts**: I want to combine F# with jupyter Books to document what I learned, and what I tried.
+
+**Link(s) to ressources**
+1. [Dotnet Interactive](https://github.com/dotnet/interactive/blob/main/docs/NotebooksLocalExperience.md)
+
 
 **Link(s) to work**
-1. [Pluralsight course Building a Pragmatic Unit Test Suite](https://app.pluralsight.com/library/courses/pragmatic-unit-testing/table-of-contents)
