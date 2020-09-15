@@ -1,4 +1,4 @@
-# 100 Days Of Clean Code - Log
+# 100 Days Of Code - Log
 
 ### Day 1: September, 09
 
@@ -11,3 +11,9 @@
 
 
 **Link(s) to work**
+
+**Ideas for next sessions**
+
+# DotNet Unit- and Integrationtesting - Live Unit Testing vs. Visual Studio
+# Answer .NET related StackOverflow Articles
+# MarkDown Training
