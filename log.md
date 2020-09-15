@@ -15,5 +15,8 @@
 **Ideas for next sessions**
 
 * DotNet Unit- and Integrationtesting - Live Unit Testing vs. Visual Studio
+* DotNet Memory Management
+* Software Architecture - Design Patterns
+* Enterprise Architect - Try out Software
 * Answer .NET related StackOverflow Articles
-* MarkDown Training
+* MarkDown Training - https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
