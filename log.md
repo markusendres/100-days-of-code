@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: September, 09
+### Day 1: September 15th, 2020
 
 **Today's Progress**: I started with F# today
 
